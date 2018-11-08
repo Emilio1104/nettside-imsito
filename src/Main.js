@@ -4,11 +4,11 @@ import {
   NavLink,
   HashRouter
 } from "react-router-dom";
-import Home from './Home';
-import Music from './Music';
-import Videos from './Videos';
-import Beats from './Beats';
-import Mixing from './Mixing';
+import Home from './Pages/Home';
+import Music from './Pages/Music';
+import Videos from './Pages/Videos';
+import Beats from './Pages/Beats';
+import Mixing from './Pages/Mixing';
 import './index.css';
 import styled from 'styled-components';
  

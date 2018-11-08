@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
-import VideoPlayer from './VideoPlayer';
-import './index.css';
+import VideoPlayer from '../VideoPlayer';
+import './../index.css';
 
 
 class Videos extends Component{

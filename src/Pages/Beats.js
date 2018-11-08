@@ -10,7 +10,7 @@ class Beats extends Component{
 				</h1>
 				<p></p>
 			</div>
-				<iframe src="//www.beatstars.com/embed/widget/?id=683346&theme=light&autoplay=no" width="100%" height="600" frameborder="0"></iframe>
+				<iframe title= "beats" src="//www.beatstars.com/embed/widget/?id=683346&theme=light&autoplay=no" width="100%" height="600" frameborder="0"></iframe>
 			</div>
 		);
 	}
