@@ -5,14 +5,14 @@ const Mixing = () => (
 	<Mixingpage>
 		<h1>Her kommer Mixing siden</h1>
 		<h2>Priser</h2>
-		<p>gis: 1000kr
-			evig gis: 10000kr
-			rolig gis: 500kr
+		<p> eksempel: 1000kr
+			eksempel3: 500kr
+			eksempel2: 12000kr 
 		</p>
 		<h3>kontaktinfo</h3>
 		<div>Email: ubergis@gis.form
 			tlf: 98238344
-			etc: 23424 2
+			etc: 23424 223
 		</div>
 	</Mixingpage>
 );

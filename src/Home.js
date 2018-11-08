@@ -7,7 +7,7 @@ class Home extends Component {
         return (
             <MenuContainer>
                 <h1>Home</h1>
-                <p>Heftige hjemme giser</p>
+                
             </MenuContainer>
         );
     }
